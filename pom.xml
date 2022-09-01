@@ -11,6 +11,8 @@
     <modules>
         <module>helloMvc</module>
         <module>ssm</module>
+        <module>forward-redirect</module>
+        <module>exception-handler</module>
     </modules>
 
     <dependencies>
