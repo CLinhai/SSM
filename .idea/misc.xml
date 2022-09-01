@@ -3,12 +3,14 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/../../../Downloads/BaiduNetdiskDownload/动力节点/SpringMVC/源码/ch01-hello-springmvc" />
+    <file type="web" url="file://$PROJECT_DIR$/../../../Downloads/BaiduNetdiskDownload/动力节点/SpringMVC/源码/ch12-interceptor-permission" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../../../Downloads/BaiduNetdiskDownload/动力节点/SpringMVC/源码/ch01-hello-springmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../Downloads/BaiduNetdiskDownload/动力节点/SpringMVC/源码/ch12-interceptor-permission/pom.xml" />
       </list>
     </option>
   </component>
